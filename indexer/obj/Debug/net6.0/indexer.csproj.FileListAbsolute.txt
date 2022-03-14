@@ -1,0 +1,15 @@
+C:\Users\soi30\Documents\c_shasp\indexer\bin\Debug\net6.0\indexer.exe
+C:\Users\soi30\Documents\c_shasp\indexer\bin\Debug\net6.0\indexer.deps.json
+C:\Users\soi30\Documents\c_shasp\indexer\bin\Debug\net6.0\indexer.runtimeconfig.json
+C:\Users\soi30\Documents\c_shasp\indexer\bin\Debug\net6.0\indexer.dll
+C:\Users\soi30\Documents\c_shasp\indexer\bin\Debug\net6.0\indexer.pdb
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\indexer.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\indexer.AssemblyInfoInputs.cache
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\indexer.AssemblyInfo.cs
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\indexer.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\indexer.dll
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\refint\indexer.dll
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\indexer.pdb
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\indexer.genruntimeconfig.cache
+C:\Users\soi30\Documents\c_shasp\indexer\obj\Debug\net6.0\ref\indexer.dll

@@ -1,0 +1,15 @@
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\person.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\person.AssemblyInfoInputs.cache
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\person.AssemblyInfo.cs
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\person.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\start\list\person\bin\Debug\net6.0\person.exe
+C:\Users\soi30\Documents\c_shasp\start\list\person\bin\Debug\net6.0\person.deps.json
+C:\Users\soi30\Documents\c_shasp\start\list\person\bin\Debug\net6.0\person.runtimeconfig.json
+C:\Users\soi30\Documents\c_shasp\start\list\person\bin\Debug\net6.0\person.dll
+C:\Users\soi30\Documents\c_shasp\start\list\person\bin\Debug\net6.0\person.pdb
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\person.dll
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\refint\person.dll
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\person.pdb
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\person.genruntimeconfig.cache
+C:\Users\soi30\Documents\c_shasp\start\list\person\obj\Debug\net6.0\ref\person.dll
