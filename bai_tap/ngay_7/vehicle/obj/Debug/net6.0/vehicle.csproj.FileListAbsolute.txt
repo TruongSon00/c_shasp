@@ -1,0 +1,15 @@
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\vehicle.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\vehicle.AssemblyInfoInputs.cache
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\vehicle.AssemblyInfo.cs
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\vehicle.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\bin\Debug\net6.0\vehicle.exe
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\bin\Debug\net6.0\vehicle.deps.json
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\bin\Debug\net6.0\vehicle.runtimeconfig.json
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\bin\Debug\net6.0\vehicle.dll
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\bin\Debug\net6.0\vehicle.pdb
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\vehicle.dll
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\refint\vehicle.dll
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\vehicle.pdb
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\vehicle.genruntimeconfig.cache
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_7\vehicle\obj\Debug\net6.0\ref\vehicle.dll

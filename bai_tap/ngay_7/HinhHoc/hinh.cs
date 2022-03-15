@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace HinhHoc
 {
-    internal interface hinh
+    public interface hinh
     {
 
 
 
-        void NhapTT();
+        public void NhapTT();
 
-        string HienThi();
+        public string HienThi();
 
 
         int area();

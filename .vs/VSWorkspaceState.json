@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\HinhHoc",
-    "\\start\\app"
+    "\\bai_tap",
+    "\\bai_tap\\ngay_7",
+    "\\bai_tap\\ngay_7\\vehicle"
   ],
-  "SelectedNode": "\\HinhHoc\\hinhVuong.cs",
+  "SelectedNode": "\\bai_tap\\ngay_7\\vehicle\\truck.cs",
   "PreviewInSolutionExplorer": false
 }
