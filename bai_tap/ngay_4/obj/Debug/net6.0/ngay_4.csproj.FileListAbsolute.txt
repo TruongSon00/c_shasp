@@ -1,0 +1,15 @@
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\bin\Debug\net6.0\ngay_4.exe
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\bin\Debug\net6.0\ngay_4.deps.json
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\bin\Debug\net6.0\ngay_4.runtimeconfig.json
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\bin\Debug\net6.0\ngay_4.dll
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\bin\Debug\net6.0\ngay_4.pdb
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ngay_4.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ngay_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ngay_4.AssemblyInfoInputs.cache
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ngay_4.AssemblyInfo.cs
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ngay_4.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ngay_4.dll
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\refint\ngay_4.dll
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ngay_4.pdb
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ngay_4.genruntimeconfig.cache
+C:\Users\soi30\Documents\c_shasp\bai_tap\ngay_4\obj\Debug\net6.0\ref\ngay_4.dll

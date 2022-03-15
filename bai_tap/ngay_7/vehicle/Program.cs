@@ -80,6 +80,7 @@ namespace vehicle
                     case 4:
                         Console.Write("Nhap model tim kiem: ");
                         string model = Console.ReadLine();
+                       
                         for (int i = 0; i < index; i++)
                         {
                             if (xe[i].model.Contains(model))
