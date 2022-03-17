@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
-    "\\bai_tap",
     "\\bai_tap\\ngay_7",
-    "\\bai_tap\\ngay_7\\vehicle"
+    "\\bai_tap\\ngay_7\\vehicle",
+    "\\default"
   ],
-  "SelectedNode": "\\bai_tap\\ngay_7\\vehicle\\truck.cs",
+  "SelectedNode": "\\default",
   "PreviewInSolutionExplorer": false
 }

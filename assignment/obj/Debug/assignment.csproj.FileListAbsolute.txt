@@ -1,0 +1,8 @@
+C:\Users\soi30\Documents\c_shasp\assignment\bin\Debug\assignment.exe.config
+C:\Users\soi30\Documents\c_shasp\assignment\bin\Debug\assignment.exe
+C:\Users\soi30\Documents\c_shasp\assignment\bin\Debug\assignment.pdb
+C:\Users\soi30\Documents\c_shasp\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\assignment\obj\Debug\assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\soi30\Documents\c_shasp\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\assignment\obj\Debug\assignment.exe
+C:\Users\soi30\Documents\c_shasp\assignment\obj\Debug\assignment.pdb
