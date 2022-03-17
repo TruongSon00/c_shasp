@@ -1,0 +1,15 @@
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\exception.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\exception.AssemblyInfoInputs.cache
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\exception.AssemblyInfo.cs
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\exception.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\exception\bin\Debug\net6.0\exception.exe
+C:\Users\soi30\Documents\c_shasp\exception\bin\Debug\net6.0\exception.deps.json
+C:\Users\soi30\Documents\c_shasp\exception\bin\Debug\net6.0\exception.runtimeconfig.json
+C:\Users\soi30\Documents\c_shasp\exception\bin\Debug\net6.0\exception.dll
+C:\Users\soi30\Documents\c_shasp\exception\bin\Debug\net6.0\exception.pdb
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\exception.dll
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\refint\exception.dll
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\exception.pdb
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\exception.genruntimeconfig.cache
+C:\Users\soi30\Documents\c_shasp\exception\obj\Debug\net6.0\ref\exception.dll
