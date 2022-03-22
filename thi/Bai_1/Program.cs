@@ -14,7 +14,7 @@ namespace GeometryExample
             Cylinder cylinder = new Cylinder();
             cylinder.NhapTT();
 
-            Console.ReadLine(cylinder.Result());
+            Console.WriteLine(cylinder.Result());
         }
     }
 }
