@@ -1,0 +1,8 @@
+C:\Users\soi30\Documents\c_shasp\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\soi30\Documents\c_shasp\dictionary\bin\Debug\dictionary.exe
+C:\Users\soi30\Documents\c_shasp\dictionary\bin\Debug\dictionary.pdb
+C:\Users\soi30\Documents\c_shasp\dictionary\obj\Debug\dictionary.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\dictionary\obj\Debug\dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\soi30\Documents\c_shasp\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\dictionary\obj\Debug\dictionary.exe
+C:\Users\soi30\Documents\c_shasp\dictionary\obj\Debug\dictionary.pdb

@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\BaiThiHetMonAP\bin\Debug\BaiThiHetMonAP.exe.config
+C:\Users\ASUS\source\repos\BaiThiHetMonAP\bin\Debug\BaiThiHetMonAP.exe
+C:\Users\ASUS\source\repos\BaiThiHetMonAP\bin\Debug\BaiThiHetMonAP.pdb
+C:\Users\ASUS\source\repos\BaiThiHetMonAP\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BaiThiHetMonAP\obj\Debug\GeometryExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\BaiThiHetMonAP\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiThiHetMonAP\obj\Debug\BaiThiHetMonAP.exe
+C:\Users\ASUS\source\repos\BaiThiHetMonAP\obj\Debug\BaiThiHetMonAP.pdb
+C:\Users\soi30\Documents\c_shasp\thi\bai_1\bin\Debug\BaiThiHetMonAP.exe.config
+C:\Users\soi30\Documents\c_shasp\thi\bai_1\bin\Debug\BaiThiHetMonAP.exe
+C:\Users\soi30\Documents\c_shasp\thi\bai_1\bin\Debug\BaiThiHetMonAP.pdb
+C:\Users\soi30\Documents\c_shasp\thi\bai_1\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\thi\bai_1\obj\Debug\GeometryExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\soi30\Documents\c_shasp\thi\bai_1\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\thi\bai_1\obj\Debug\BaiThiHetMonAP.exe
+C:\Users\soi30\Documents\c_shasp\thi\bai_1\obj\Debug\BaiThiHetMonAP.pdb

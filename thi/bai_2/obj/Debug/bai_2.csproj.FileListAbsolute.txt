@@ -1,0 +1,8 @@
+C:\Users\soi30\Documents\c_shasp\thi\bai_2\obj\Debug\bai_2.csproj.AssemblyReference.cache
+C:\Users\soi30\Documents\c_shasp\thi\bai_2\obj\Debug\bai_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\soi30\Documents\c_shasp\thi\bai_2\obj\Debug\bai_2.csproj.CoreCompileInputs.cache
+C:\Users\soi30\Documents\c_shasp\thi\bai_2\bin\Debug\bai_2.exe.config
+C:\Users\soi30\Documents\c_shasp\thi\bai_2\bin\Debug\bai_2.exe
+C:\Users\soi30\Documents\c_shasp\thi\bai_2\bin\Debug\bai_2.pdb
+C:\Users\soi30\Documents\c_shasp\thi\bai_2\obj\Debug\bai_2.exe
+C:\Users\soi30\Documents\c_shasp\thi\bai_2\obj\Debug\bai_2.pdb
